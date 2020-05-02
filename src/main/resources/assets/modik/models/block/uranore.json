@@ -1,0 +1,8 @@
+{
+  "parent": "modik:custom/model",
+  "textures": {
+    "all": "modik:blocks/iez_imieni-1",
+    "particle": "modik:blocks/iez_imieni-1",
+    "0": "modik:blocks/iez_imieni-1"
+  }
+}

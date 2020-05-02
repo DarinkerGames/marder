@@ -1,0 +1,26 @@
+{
+  "group": "modik",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "modik:uraningot"
+    },
+    "2": {
+      "item": "modik:uraningot"
+    },
+    "3": {
+      "item": "modik:uraningot"
+    },
+    "5": {
+      "item": "modik:uraningot"
+    }
+  },
+  "result": {
+    "item": "modik:uranarmorboots",
+    "count": 1
+  }
+}

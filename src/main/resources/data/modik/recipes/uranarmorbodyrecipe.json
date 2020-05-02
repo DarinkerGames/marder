@@ -1,0 +1,39 @@
+{
+  "group": "modik",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "modik:uraningot"
+    },
+    "2": {
+      "item": "modik:uraningot"
+    },
+    "3": {
+      "item": "modik:uraningot"
+    },
+    "4": {
+      "item": "modik:uraningot"
+    },
+    "5": {
+      "item": "modik:uraningot"
+    },
+    "6": {
+      "item": "modik:uraningot"
+    },
+    "7": {
+      "item": "modik:uraningot"
+    },
+    "8": {
+      "item": "modik:uraningot"
+    }
+  },
+  "result": {
+    "item": "modik:uranarmorbody",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "group": "modik",
+  "type": "minecraft:smelting",
+  "experience": 20,
+  "ingredient": {
+    "item": "modik:uranore"
+  },
+  "result": {
+    "item": "modik:uraningot"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "uran_head",
+    "enableBody": true,
+    "textureBody": "uran_body",
+    "enableLeggings": true,
+    "textureLeggings": "uran_leggings",
+    "enableBoots": true,
+    "textureBoots": "uran_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "uran",
+    "helmetName": "Uran Helmet",
+    "bodyName": "Uran Chestplate",
+    "leggingsName": "Uran Leggings",
+    "bootsName": "Uran Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 75,
+    "damageValueHelmet": 10,
+    "damageValueBody": 25,
+    "damageValueLeggings": 30,
+    "damageValueBoots": 10,
+    "enchantability": 45,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}
